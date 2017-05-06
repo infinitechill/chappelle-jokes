@@ -1,7 +1,7 @@
 {
-  "name": "daves jokes",
+  "name": "dave-jokes",
   "version": "1.0.0",
-  "description": "tells a random dave joke.",
+  "description": "dave jokes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,6 @@
   "author": "Amazon.com",
   "license": "Apache-2.0",
   "dependencies": {
-    "alexa-sdk": "^1.0.9"
+    "alexa-sdk": "^1.0.6"
   }
 }
